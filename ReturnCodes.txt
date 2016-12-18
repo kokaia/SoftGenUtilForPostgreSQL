@@ -1,0 +1,5 @@
+﻿-1	WRONG ARGUMENT COUNT
+-2      psql START ERROR
+-3      psql Finish ERROR
+-4      FILE DONT EXIST
+-5      Unknown Error
